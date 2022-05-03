@@ -52,7 +52,7 @@
 - Solidity
 - Truffle
 - Ganache
-- Hardhat(Learning)
+- Hardhat
 - Web3.js
 - Ethers.js
 - OpenZeppelin
