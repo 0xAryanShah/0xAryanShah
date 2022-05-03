@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Building A Dex**
 
-- 🌱 I’m currently learning **React, Hardhat, GO**
+- 🌱 I’m currently learning **GO**
 
 - 👯 I’m looking to collaborate on **Blockchain Dev. Work**
 
-- 💬 Ask me about **Blockchain, Solidity, Crypto**
+- 💬 Ask me about **Blockchain, Solidity, Crypto, Web3**
 
 - 📫 How to reach me **05aryanshah@gmail.com**
 
