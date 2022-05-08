@@ -56,6 +56,7 @@
 - Web3.js
 - Ethers.js
 - OpenZeppelin
+- Waffle
 - Mocha
 - Chai
 - Go-Ethereum(Setting up Private Blockchain Network)
