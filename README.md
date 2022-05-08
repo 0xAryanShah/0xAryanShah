@@ -56,10 +56,9 @@
 - Web3.js
 - Ethers.js
 - OpenZeppelin
-- Chai
 - Mocha
-- Chai-Expect
-- Chai-as-Promised
+- Chai
 - Go-Ethereum(Setting up Private Blockchain Network)
+- ERC721(NFT)
 
 <img align="center" alt="WEB3" src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif">
