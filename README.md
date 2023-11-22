@@ -37,7 +37,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> 
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/0xAryanShah/0xAryanShah/assets/104650624/3cdb89df-1616-4865-ae3e-6eae39a009e9" alt="next" width="50" height="50" fill="blue" /> 
+        <img src="https://github.com/0xAryanShah/0xAryanShah/assets/104650624/c09e4a5b-d55d-4a6f-b46c-f226f011fb44" alt="next" width="50" height="50" fill="blue" /> 
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind-css" width="50" height="50" /> 
