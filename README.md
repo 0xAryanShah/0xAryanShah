@@ -36,11 +36,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> 
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-          <svg viewBox="0 0 128 128" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-          <path fill="orange" d="M30.2 45.9h24.1v1.9H32.4v14.4H53v1.9H32.4v15.8h22.2v1.9H30.2V45.9zm26.3 0h2.6l11.4 15.8L82 45.9l15.8-20-26 37.5 13.4 18.4h-2.7L70.4 65 58.2 81.8h-2.6l13.5-18.4-12.6-17.5zm29.7 1.9v-1.9h27.5v1.9H101v34h-2.2v-34H86.2zM0 45.9h2.7l38.2 56.8-15.8-20.9L2.3 48.6l-.1 33.2H0zm113.5 33.4c.5 0 .8-.3.8-.8s-.3-.8-.8-.8-.8.3-.8.8.4.8.8.8zm2.2-2.1c0 1.3 1 2.2 2.4 2.2 1.5 0 2.4-.9 2.4-2.5v-5.5h-1.2v5.5c0 .9-.4 1.3-1.2 1.3-.7 0-1.2-.4-1.2-1.1h-1.2zm6.3-.1c.1 1.4 1.2 2.3 3 2.3s3-.9 3-2.4c0-1.2-.7-1.8-2.2-2.2l-.9-.2c-1-.2-1.4-.6-1.4-1.1 0-.7.6-1.2 1.6-1.2.9 0 1.5.4 1.6 1.2h1.2c-.1-1.3-1.2-2.2-2.8-2.2-1.7 0-2.8.9-2.8 2.3 0 1.1.6 1.8 2 2.1l1 .2c1 .2 1.5.6 1.5 1.2 0 .7-.7 1.2-1.7 1.2s-1.8-.5-1.9-1.2H122z"></path>
-          </svg> 
-    </a>
+    ![next](data:image/svg+xml;base64,Cjxzdmcgdmlld0JveD0iMCAwIDEyOCAxMjgiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGZpbGw9ImJsdWUiIGQ9Ik0zMC4yIDQ1LjloMjQuMXYxLjlIMzIuNHYxNC40SDUzdjEuOUgzMi40djE1LjhoMjIuMnYxLjlIMzAuMlY0NS45em0yNi4zIDBoMi42bDExLjQgMTUuOEw4MiA0NS45bDE1LjgtMjAtMjYgMzcuNSAxMy40IDE4LjRoLTIuN0w3MC40IDY1IDU4LjIgODEuOGgtMi42bDEzLjUtMTguNC0xMi42LTE3LjV6bTI5LjcgMS45di0xLjloMjcuNXYxLjlIMTAxdjM0aC0yLjJ2LTM0SDg2LjJ6TTAgNDUuOWgyLjdsMzguMiA1Ni44LTE1LjgtMjAuOUwyLjMgNDguNmwtLjEgMzMuMkgwem0xMTMuNSAzMy40Yy41IDAgLjgtLjMuOC0uOHMtLjMtLjgtLjgtLjgtLjguMy0uOC44LjQuOC44Ljh6bTIuMi0yLjFjMCAxLjMgMSAyLjIgMi40IDIuMiAxLjUgMCAyLjQtLjkgMi40LTIuNXYtNS41aC0xLjJ2NS41YzAgLjktLjQgMS4zLTEuMiAxLjMtLjcgMC0xLjItLjQtMS4yLTEuMWgtMS4yem02LjMtLjFjLjEgMS40IDEuMiAyLjMgMyAyLjNzMy0uOSAzLTIuNGMwLTEuMi0uNy0xLjgtMi4yLTIuMmwtLjktLjJjLTEtLjItMS40LS42LTEuNC0xLjEgMC0uNy42LTEuMiAxLjYtMS4yLjkgMCAxLjUuNCAxLjYgMS4yaDEuMmMtLjEtMS4zLTEuMi0yLjItMi44LTIuMi0xLjcgMC0yLjguOS0yLjggMi4zIDAgMS4xLjYgMS44IDIgMi4xbDEgLjJjMSAuMiAxLjUuNiAxLjUgMS4yIDAgLjctLjcgMS4yLTEuNyAxLjJzLTEuOC0uNS0xLjktMS4ySDEyMnoiPjwvcGF0aD4KPC9zdmc+Cg==)
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="50" height="50" style="color:blue" /> 
     </a>
