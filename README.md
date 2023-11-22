@@ -35,10 +35,9 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> 
-    </a>
-    ![next](data:image/svg+xml;base64,Cjxzdmcgdmlld0JveD0iMCAwIDEyOCAxMjgiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGZpbGw9ImJsdWUiIGQ9Ik0zMC4yIDQ1LjloMjQuMXYxLjlIMzIuNHYxNC40SDUzdjEuOUgzMi40djE1LjhoMjIuMnYxLjlIMzAuMlY0NS45em0yNi4zIDBoMi42bDExLjQgMTUuOEw4MiA0NS45bDE1LjgtMjAtMjYgMzcuNSAxMy40IDE4LjRoLTIuN0w3MC40IDY1IDU4LjIgODEuOGgtMi42bDEzLjUtMTguNC0xMi42LTE3LjV6bTI5LjcgMS45di0xLjloMjcuNXYxLjlIMTAxdjM0aC0yLjJ2LTM0SDg2LjJ6TTAgNDUuOWgyLjdsMzguMiA1Ni44LTE1LjgtMjAuOUwyLjMgNDguNmwtLjEgMzMuMkgwem0xMTMuNSAzMy40Yy41IDAgLjgtLjMuOC0uOHMtLjMtLjgtLjgtLjgtLjguMy0uOC44LjQuOC44Ljh6bTIuMi0yLjFjMCAxLjMgMSAyLjIgMi40IDIuMiAxLjUgMCAyLjQtLjkgMi40LTIuNXYtNS41aC0xLjJ2NS41YzAgLjktLjQgMS4zLTEuMiAxLjMtLjcgMC0xLjItLjQtMS4yLTEuMWgtMS4yem02LjMtLjFjLjEgMS40IDEuMiAyLjMgMyAyLjNzMy0uOSAzLTIuNGMwLTEuMi0uNy0xLjgtMi4yLTIuMmwtLjktLjJjLTEtLjItMS40LS42LTEuNC0xLjEgMC0uNy42LTEuMiAxLjYtMS4yLjkgMCAxLjUuNCAxLjYgMS4yaDEuMmMtLjEtMS4zLTEuMi0yLjItMi44LTIuMi0xLjcgMC0yLjguOS0yLjggMi4zIDAgMS4xLjYgMS44IDIgMi4xbDEgLjJjMSAuMiAxLjUuNiAxLjUgMS4yIDAgLjctLjcgMS4yLTEuNyAxLjJzLTEuOC0uNS0xLjktMS4ySDEyMnoiPjwvcGF0aD4KPC9zdmc+Cg==)
+    </a>    
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="50" height="50" style="color:blue" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="50" height="50" fill="blue" /> 
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind-css" width="50" height="50" /> 
@@ -48,43 +47,44 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50" /> </a>  
 </div>
+<br><br>
 <div style="display:inline_block" align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" /> 
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" /> </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go-lang" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go-lang" width="50" height="50" /> 
     </a> 
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="50" height="50" /> 
     </a> 
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgres" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgres" width="50" height="50" /> 
     </a> 
     <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" width="50" height="50" /> 
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" alt="java" width="50" height="50" /> 
     </a>    
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="50" height="50" /> 
     </a> 
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> 
     </a>
     <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50" /> 
     </a>
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="50" height="50" /> 
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /> 
     </a>      
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>    
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" /> </a>    
 </div>
 
   
