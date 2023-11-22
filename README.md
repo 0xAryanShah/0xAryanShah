@@ -87,7 +87,7 @@
 </div>
 
   
-# Working hard to become a Full-Stack Blockchain Developer  
+# Full-Stack Web3 Blockchain Developer  
 
 ### Blockchain Development (Ethereum decentralized applications)
 
@@ -95,13 +95,18 @@
 - Truffle
 - Ganache
 - Hardhat
+- Foundry
 - Web3.js
 - Ethers.js
+- Viem
+- Wagmi
+- Rainbow Kit
 - OpenZeppelin
 - Waffle
 - Mocha
 - Chai
 - Go-Ethereum(Setting up Private Blockchain Network)
 - ERC721(NFT)
+- ERC1155
 
 <img align="center" alt="WEB3" src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif">
