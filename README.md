@@ -5,9 +5,9 @@
 
 <br />
 
-- 🔭 I’m currently working on **Building Dapps**
+- 🔭 I’m currently working on **Dex Aggregators**
 
-- 🌱 I’m currently learning **ZK**
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on **Blockchain Dev. Work**
 
