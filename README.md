@@ -5,11 +5,11 @@
 
 <br />
 
-- 🔭 I’m currently working on **Dex Aggregators**
+- 🔭 I’m currently working on **Cross Chain Dex Aggregators**
 
 - 🌱 I’m currently learning **RUST**
 
-- 👯 I’m looking to collaborate on **Blockchain Dev. Work**
+- 👯 I’m looking to collaborate on **Web3**
 
 - 💬 Ask me about **Blockchain, Solidity, Crypto, Web3**
 
