@@ -5,9 +5,9 @@
 
 <br />
 
-- 🔭 I’m currently working on **Cross Chain Dex Aggregators**
+- 🔭 I’m currently working on **Perp Dexes** & **Cross Chain Dex Aggregators**
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently exploring **RUST for Solana Programs**
 
 - 👯 I’m looking to collaborate on **Web3**
 
