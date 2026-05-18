@@ -5,7 +5,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **Perp Dexes** & **Cross Chain Dex Aggregators**
+- 🔭 I’m currently working on **Safe Wallet**
 
 - 🌱 I’m currently exploring **RUST for Solana Programs**
 
