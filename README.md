@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Safe Wallet**
 
-- 🌱 I’m currently exploring **RUST for Solana Programs**
+- 🌱 I’m currently exploring **Agentic AI Pipelines**
 
 - 👯 I’m looking to collaborate on **Web3**
 
-- 💬 Ask me about **Blockchain, Solidity, Crypto, Web3**
+- 💬 Ask me about **Blockchain, Solidity, Typescript, Nodejs, Crypto, Web3**
 
 - 📫 How to reach me **05aryanshah@gmail.com**
 
