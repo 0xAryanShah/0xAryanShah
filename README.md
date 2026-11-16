@@ -5,13 +5,11 @@
 
 <br />
 
-- 🔭 I’m currently working on **Safe Wallet**
+- 🔭 I’m currently building **Alora Protocol**
 
-- 🌱 I’m currently exploring **Agentic AI Pipelines**
+- 👯 I’m looking to collaborate on **RWA**
 
-- 👯 I’m looking to collaborate on **Web3**
-
-- 💬 Ask me about **Blockchain, Solidity, Typescript, Nodejs, Crypto, Web3**
+- 💬 Ask me about **Blockchain, Solidity, Typescript, Nodejs, Crypto, Web3, AI**
 
 - 📫 How to reach me **05aryanshah@gmail.com**
 
