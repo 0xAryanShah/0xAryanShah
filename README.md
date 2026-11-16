@@ -1,15 +1,19 @@
 ![MasterHead](https://feature.undp.org/beyond-bitcoin/assets/hxFnAcINBZ/block2.gif)
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">Co-founder & CTO at Alora Protocol · Building onchain fund infrastructure</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br />
 
-- 🔭 I’m currently building **Alora Protocol**
+- 🏗️ Co-founder & CTO of **[Alora Protocol](https://www.aloraprotocol.xyz)**, the onchain fund issuance and share-class platform
 
-- 👯 I’m looking to collaborate on **RWA**
+- 🔭 Building **ERC-7621 fund vaults, tokenized share classes and compliant RWA rails**
 
-- 💬 Ask me about **Blockchain, Solidity, Typescript, Nodejs, Crypto, Web3, AI**
+- 👯 Looking to work with **fund issuers, transfer agents, distributors and RWA builders**
+
+- 💬 Ask me about **RWA, Tokenized Funds, Solidity, Fund Vaults, Oracles, Web3 Infra, AI**
+
+- 📖 Read the docs **[alora-protocol.gitbook.io/docs](https://alora-protocol.gitbook.io/docs)**
 
 - 📫 How to reach me **05aryanshah@gmail.com**
 
@@ -52,7 +56,7 @@
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a></td>
   </tr>
     <tr>
-  <td><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></a></td>
+  <td><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/></a></td>
   <td><a href="https://www.npmjs.com/package/bullmq"><img src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" width="50" height="50" style="object-fit:contain;"/></a></td>
   <td><a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/></a></td>
   <td><a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50"/></a></td>
@@ -63,11 +67,19 @@
 </tr>
 </table>
   
-# Full-Stack Web3 Blockchain Developer  
+# Building Alora Protocol
 
-## Blockchain Development (Web3 Stack)
+Alora is an onchain fund issuance and share-class platform. Issuers launch funds as ERC-7621 fund vaults with allowlisted access, a defined trade universe, Chainlink-verified pricing and in-kind creation/redemption through authorized participants. I lead the protocol architecture, smart contracts and backend.
+
+## Builder Stack
 
 <table width="100%" cellspacing="0" cellpadding="10">
+
+  <tr>
+    <td width="33%" valign="top"><b>RWA & Tokenized Funds</b><br>ERC-7621 Fund Vaults<br>Tokenized Share Classes</td>
+    <td width="33%" valign="top"><b>Compliance & Access</b><br>ERC-7943 • Allowlists<br>Role-Based Access Control</td>
+    <td width="33%" valign="top"><b>Fund Operations</b><br>In-Kind Creation/Redemption<br>Authorized Participants • Oracle Pricing</td>
+  </tr>
 
   <tr>
     <td width="33%" valign="top"><b>Core & Frameworks</b><br>Solidity • Yul<br>Foundry • Hardhat</td>
